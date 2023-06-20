@@ -1,0 +1,6 @@
+[submodule "MHZ14A"]
+	path = MHZ14A
+	url = ./MHZ14A
+[submodule "SDS011"]
+	path = SDS011
+	url = ./SDS011
